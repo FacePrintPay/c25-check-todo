@@ -62,3 +62,5 @@ while IFS= read -r line; do
   fi
 done <<< "$sorted_output"
 exit $exit_code
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=check_todo.sh
